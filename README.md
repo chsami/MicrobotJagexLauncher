@@ -14,5 +14,4 @@ Interested in using this project? Download the launcher on: https://themicrobot.
 
   ![image](https://github.com/user-attachments/assets/a21cad34-163e-4c26-965f-a6e76c766edc)
 
-
-4) Run project
+3) Run project
