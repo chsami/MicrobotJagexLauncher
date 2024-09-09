@@ -5,7 +5,7 @@ Jagex launcher that is being used for the microbot launcher project
 ## How to run the project
 
 1) Download the JCEF Library from: https://developmentb464.blob.core.windows.net/microbot/launcher/jcef-bundle.zip and extract the folder in the MicrobotJagexLauncher project folder.
-2) Add env variable in your environment settings
+2) Add env variable that redirects to the jcef-bundle folder in your environment settings. This is needed so that the java application can use the dll's in the jcef-bundle to open the chromium browser.
 
 ![image](https://github.com/user-attachments/assets/db40fec3-8518-4c12-b6bf-53cdfc48653d)
 
