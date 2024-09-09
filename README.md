@@ -5,7 +5,11 @@ Jagex launcher that is being used for the microbot launcher project
 ## How to run the project
 
 1) Download the JCEF Library from: https://developmentb464.blob.core.windows.net/microbot/launcher/jcef-bundle.zip and extract the folder in the MicrobotJagexLauncher project folder.
-2) Reload maven project & run install
+2) Add env variable in your environment settings
+
+![image](https://github.com/user-attachments/assets/db40fec3-8518-4c12-b6bf-53cdfc48653d)
+
+3) Reload maven project & run install
 
   ![image](https://github.com/user-attachments/assets/30606bca-8e29-40f0-a138-993ef8e65950)
 
